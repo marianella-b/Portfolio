@@ -8,4 +8,4 @@
 |4|[Исследование рынка общепита в Москве для принятия решения об открытии нового заведения](https://github.com/marianella-b/Portfolio/tree/main/food%20service%20study)||Python, Pandas, Matplotlib, Plotly, Seaborn, PowerPoint|Стартапы, Бизнес, Оффлайн|
 |5|[Анализ пользовательского поведения в мобильном приложении](https://github.com/marianella-b/Portfolio/tree/main/mobile_app_AAB)||Python, Pandas, Matplotlib, Plotly, A/В-тестирование, проверка статистических гипотез, событийная аналитика|Стартапы, Бизнес, Интернет-сервисы|
 |6|[Анализ убытков развлекательного приложения](https://github.com/marianella-b/Portfolio/tree/main/unit_economy_entertainment_app)||Python, Pandas, Matplotlib, Seaborn, Когортный анализ, Unit-экономика, Продуктовые метрики|Интернет-сервисы, Стартапы|
-|7|[Дашборд конференций TED]()||Tableau Public, построение дашбордов|Интернет-сервисы, Стартапы|
+|7|[Дашборд конференций TED](https://github.com/marianella-b/Portfolio/tree/main/Ted_conf_dashboard)||Tableau Public, построение дашбордов|Интернет-сервисы, Стартапы|
